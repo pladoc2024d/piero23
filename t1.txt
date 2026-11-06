@@ -1,1 +1,2 @@
  estucturas de html
+ footer
